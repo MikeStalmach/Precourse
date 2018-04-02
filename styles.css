@@ -1,0 +1,24 @@
+
+  body{
+    background-color: rgb(97, 250, 0);
+    background-image: url("https://pm1.narvii.com/6726/d44bf47b2f08e88aa824845dca86a343ffa654d2v2_hq.jpg");
+    }
+    .Pickles{
+      position: absolute;
+    }
+    .divclass{
+      text-align: center;
+      border: 10px solid black;
+    }
+    #thirdDiv{
+      text-align: center;
+      height: 600px;
+      width: 500px;
+      background-color: rgb(10, 130, 80);
+      border: 23px solid white;
+      padding: 50px;
+    }
+    #spanId{
+      text-align: center;
+      font-size: 18px;
+    }
